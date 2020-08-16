@@ -10,3 +10,4 @@ torchvision
 sklearn
 yacs
 matplotlib
+dlib
